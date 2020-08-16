@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageSearch Demo</string>
+    <string name="error_message_unable_to_connect">Unable to connect to server!</string>
+    <string name="error_something_went_wrong">Something went wrong!</string>
+    <string name="hint_search_here">Search Here..</string>
+    <string name="error_msg_no_data_found">No Data Found..!</string>
+    <string name="hint_submit">Submit</string>
+    <string name="label_enter_comment_here">Enter Comment Here...</string>
+    <string name="label_image_search">Image Search</string>
+</resources>
